@@ -81,74 +81,16 @@ os.system("xdg-open  https://github.com/TBBCYBERZONE")
 logo = ("""
                           
                                                                                                         
-                                                                                                        
-TTTTTTTTTTTTTTTTTTTTTTTBBBBBBBBBBBBBBBBB   BBBBBBBBBBBBBBBBB                                            
-T:::::::::::::::::::::TB::::::::::::::::B  B::::::::::::::::B                                           
-T:::::::::::::::::::::TB::::::BBBBBB:::::B B::::::BBBBBB:::::B                                          
-T:::::TT:::::::TT:::::TBB:::::B     B:::::BBB:::::B     B:::::B                                         
-TTTTTT  T:::::T  TTTTTT  B::::B     B:::::B  B::::B     B:::::B                                         
-        T:::::T          B::::B     B:::::B  B::::B     B:::::B                                         
-        T:::::T          B::::BBBBBB:::::B   B::::BBBBBB:::::B                                          
-        T:::::T          B:::::::::::::BB    B:::::::::::::BB                                           
-        T:::::T          B::::BBBBBB:::::B   B::::BBBBBB:::::B                                          
-        T:::::T          B::::B     B:::::B  B::::B     B:::::B                                         
-        T:::::T          B::::B     B:::::B  B::::B     B:::::B                                         
-        T:::::T          B::::B     B:::::B  B::::B     B:::::B                                         
-      TT:::::::TT      BB:::::BBBBBB::::::BBB:::::BBBBBB::::::B                                         
-      T:::::::::T      B:::::::::::::::::B B:::::::::::::::::B                                          
-      T:::::::::T      B::::::::::::::::B  B::::::::::::::::B                                           
-      TTTTTTTTTTT      BBBBBBBBBBBBBBBBB   BBBBBBBBBBBBBBBBB                                            
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-        CCCCCCCCCCCCCYYYYYYY       YYYYYYYBBBBBBBBBBBBBBBBB   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
-     CCC::::::::::::CY:::::Y       Y:::::YB::::::::::::::::B  E::::::::::::::::::::ER::::::::::::::::R  
-   CC:::::::::::::::CY:::::Y       Y:::::YB::::::BBBBBB:::::B E::::::::::::::::::::ER::::::RRRRRR:::::R 
-  C:::::CCCCCCCC::::CY::::::Y     Y::::::YBB:::::B     B:::::BEE::::::EEEEEEEEE::::ERR:::::R     R:::::R
- C:::::C       CCCCCCYYY:::::Y   Y:::::YYY  B::::B     B:::::B  E:::::E       EEEEEE  R::::R     R:::::R
-C:::::C                 Y:::::Y Y:::::Y     B::::B     B:::::B  E:::::E               R::::R     R:::::R
-C:::::C                  Y:::::Y:::::Y      B::::BBBBBB:::::B   E::::::EEEEEEEEEE     R::::RRRRRR:::::R 
-C:::::C                   Y:::::::::Y       B:::::::::::::BB    E:::::::::::::::E     R:::::::::::::RR  
-C:::::C                    Y:::::::Y        B::::BBBBBB:::::B   E:::::::::::::::E     R::::RRRRRR:::::R 
-C:::::C                     Y:::::Y         B::::B     B:::::B  E::::::EEEEEEEEEE     R::::R     R:::::R
-C:::::C                     Y:::::Y         B::::B     B:::::B  E:::::E               R::::R     R:::::R
- C:::::C       CCCCCC       Y:::::Y         B::::B     B:::::B  E:::::E       EEEEEE  R::::R     R:::::R
-  C:::::CCCCCCCC::::C       Y:::::Y       BB:::::BBBBBB::::::BEE::::::EEEEEEEE:::::ERR:::::R     R:::::R
-   CC:::::::::::::::C    YYYY:::::YYYY    B:::::::::::::::::B E::::::::::::::::::::ER::::::R     R:::::R
-     CCC::::::::::::C    Y:::::::::::Y    B::::::::::::::::B  E::::::::::::::::::::ER::::::R     R:::::R
-        CCCCCCCCCCCCC    YYYYYYYYYYYYY    BBBBBBBBBBBBBBBBB   EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-                                                                                                        
-XXXXXXX       XXXXXXX     OOOOOOOOO     NNNNNNNN        NNNNNNNNEEEEEEEEEEEEEEEEEEEEEE                  
-X:::::X       X:::::X   OO:::::::::OO   N:::::::N       N::::::NE::::::::::::::::::::E                  
-X:::::X       X:::::X OO:::::::::::::OO N::::::::N      N::::::NE::::::::::::::::::::E                  
-X::::::X     X::::::XO:::::::OOO:::::::ON:::::::::N     N::::::NEE::::::EEEEEEEEE::::E                  
-XXX:::::X   X:::::XXXO::::::O   O::::::ON::::::::::N    N::::::N  E:::::E       EEEEEE                  
-   X:::::X X:::::X   O:::::O     O:::::ON:::::::::::N   N::::::N  E:::::E                               
-    X:::::X:::::X    O:::::O     O:::::ON:::::::N::::N  N::::::N  E::::::EEEEEEEEEE                     
-     X:::::::::X     O:::::O     O:::::ON::::::N N::::N N::::::N  E:::::::::::::::E                     
-     X:::::::::X     O:::::O     O:::::ON::::::N  N::::N:::::::N  E:::::::::::::::E                     
-    X:::::X:::::X    O:::::O     O:::::ON::::::N   N:::::::::::N  E::::::EEEEEEEEEE                     
-   X:::::X X:::::X   O:::::O     O:::::ON::::::N    N::::::::::N  E:::::E                               
-XXX:::::X   X:::::XXXO::::::O   O::::::ON::::::N     N:::::::::N  E:::::E       EEEEEE                  
-X::::::X     X::::::XO:::::::OOO:::::::ON::::::N      N::::::::NEE::::::EEEEEEEE:::::E                  
-X:::::X       X:::::X OO:::::::::::::OO N::::::N       N:::::::NE::::::::::::::::::::E                  
-X:::::X       X:::::X   OO:::::::::OO   N::::::N        N::::::NE::::::::::::::::::::E                  
-XXXXXXX       XXXXXXX     OOOOOOOOO     NNNNNNNN         NNNNNNNEEEEEEEEEEEEEEEEEEEEEE                  
-                                                                                                        
+                                        
+████████ ██████  ██████       ██████ ██       ██████  ███    ██ ██ ███    ██  ██████      ██████  ██████  
+   ██    ██   ██ ██   ██     ██      ██      ██    ██ ████   ██ ██ ████   ██ ██           ██   ██ ██   ██ 
+   ██    ██████  ██████      ██      ██      ██    ██ ██ ██  ██ ██ ██ ██  ██ ██   ███     ██████  ██   ██ 
+   ██    ██   ██ ██   ██     ██      ██      ██    ██ ██  ██ ██ ██ ██  ██ ██ ██    ██     ██   ██ ██   ██ 
+   ██    ██████  ██████       ██████ ███████  ██████  ██   ████ ██ ██   ████  ██████      ██████  ██████  
+                                                                                                          
+                                                                                                          
+                                                                
+
                                                                                                         
                                                                                                         
                                                                                                         
